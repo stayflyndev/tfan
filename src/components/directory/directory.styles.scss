@@ -1,0 +1,7 @@
+  // renders the layout of the items
+  .food-listings {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }

@@ -1,9 +1,8 @@
-
-// each item listed
 .food-item {
     min-width: 30%;
     height: 240px;
     flex: 1 1 auto;
+    flex-wrap: wrap;
     display: flex;
     align-items: center;
     justify-content: center;

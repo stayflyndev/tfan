@@ -11,7 +11,7 @@ class Directory extends React.Component {
                 "albumId": 1,
                 "id": 1,
                 "title": "accusamus beatae ad facilis cum similique qui sunt",
-                "url": "https://via.placeholder.com/600/92c952",
+                "url": "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2017/11/iStock-490305560-1080x675.jpg",
                 "thumbnailUrl": "https://via.placeholder.com/150/92c952",
                 "link": "food"
               },
@@ -21,7 +21,7 @@ class Directory extends React.Component {
                 "title": "reprehenderit est deserunt velit ipsam",
                 "url": "https://via.placeholder.com/600/771796",
                 "thumbnailUrl": "https://via.placeholder.com/150/771796",
-                "link": ""
+                "link": "italian"
               },
               {
                 "albumId": 1,
@@ -29,7 +29,7 @@ class Directory extends React.Component {
                 "title": "officia porro iure quia iusto qui ipsa ut modi",
                 "url": "https://via.placeholder.com/600/24f355",
                 "thumbnailUrl": "https://via.placeholder.com/150/24f355" ,
-                "link": ""
+                "link": "mexican"
               },
               {
                 "albumId": 1,
